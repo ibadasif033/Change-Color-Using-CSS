@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(206, 203, 203);
+    color: gray;
+  }
+  /* *{} This is for Universal tag   */
+  h1 {
+    background-color: rgb(196, 137, 137);
+    color: rgb(218, 31, 31);
+    font-size: 30px;
+    text-transform: capitalize;
+  }
+  .four {
+    background-color: white;
+    color: rgb(235, 235, 92);
+    font-size: 20px;
+    text-transform: capitalize;
+  }
+  span {
+    display: inline;
+    background-color: rgb(238, 224, 199);
+    color: green;
+  }
+  
